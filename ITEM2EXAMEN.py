@@ -36,7 +36,7 @@ os.system("cls")
   
 while opcion==1: 
   print("\b")
-  print("Bienvenido a la Perfecta API de Joaquin y Carlos")
+  print("Bienvenido a la Perfecta API de Carlos, Axel Y Joaquin")
   print("A continuacion, ingrese la comuna en la que se ubica:")   
   print("")    
   print("") 
