@@ -41,6 +41,7 @@ elif pregunta ==1:
         print("Integrantes:")
         print("1- Carlos Galleguillos")
         print("2- Joaquin Paredes")
+        print("3- Axel Chamorro")
         print("||||||||||||||||||||||||||||||||||||||||||")
         os.system("cls")
         while pregunta==1:
@@ -50,6 +51,7 @@ elif pregunta ==1:
             print("Integrantes:")
             print("1- Carlos Galleguillos")
             print("2- Joaquin Paredes")
+            print("3- Axel Chamorro")
             print("||||||||||||||||||||||||||||||||||||||||||")
             print("¿Desea comprobar si la VLAN")
             print("en la que piensa esta en el")
